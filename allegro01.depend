@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1491087486 source:c:\users\geovanny\desktop\tutorial allegro\tutorial allegro 4 menu\main.cpp
+	<allegro.h>
+
+1492826376 source:c:\users\geovanny\desktop\bomberman c++\main.cpp
+	<allegro.h>
+
+1492886098 source:f:\c++\proyecto c++\bomberman c++\main.cpp
+	<allegro.h>
+
+1492918710 source:c:\users\luis fernando yepes\desktop\c++\proyecto c++\bomberman c++\main.cpp
+	<allegro.h>
+
+1493003211 source:c:\users\luis fernando yepes\desktop\bomberman prueba1\main.cpp
+	<cstdlib>
+	<allegro.h>
+
+1495319132 source:c:\users\geovanny\desktop\bomberman prueba1\main.cpp
+	<cstdlib>
+	<allegro.h>
+	<iostream>
+
+1495325376 source:c:\users\geovanny\documents\bomberman prueba1\main.cpp
+	<cstdlib>
+	<allegro.h>
+	<iostream>
+
+1495933515 source:c:\users\geovanny\documents\proyecto bomberman\main.cpp
+	<cstdlib>
+	<allegro.h>
+	<iostream>
+
+1505484993 source:c:\users\geovanny\desktop\proyecto bomberman\main.cpp
+	<cstdlib>
+	<allegro.h>
+	<iostream>
+
+1505484993 source:c:\users\geovanny\google drive (geovanni.rojas@correounivalle.edu.co)\universidad\2 semestre\3. introduccion a la programación orientada a objetos\proyecto bomberman\main.cpp
+	<cstdlib>
+	<allegro.h>
+	<iostream>
+

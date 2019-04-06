@@ -1,0 +1,39 @@
+//mapa del juego
+char mapa[MAXFILAS][MAXCOL] = {
+
+    "NNNNNNNNNNNNNNNNNNNNNNNNNNN",
+    "N                         N",
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "X   DDDDDDDDDDDDDDDDDDDDDDX",
+    "X XDXDXDX XDXDXDX X XDX X X",
+    "X DDDDDDD    DDD     D    X",
+    "X XDXDXDX X XDXDXDX XDXDX X",
+    "X DDDDDD                  X",
+    "XDX XDXDX X XDXDXDX X XDX X",
+    "X   D D D   DDDDDD        X",
+    "XDXDX X XDX X X XDX XDX X X",
+    "X       DD      DDDDDDDDDDX",
+    "XDX XDXDXDX X X XDXDXDXDX X",
+    "XDDDDDDDDDD    DDDDDDD    X",
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+};
+
+//mapa vacio
+char mapa[MAXFILAS][MAXCOL] = {
+
+    "NNNNNNNNNNNNNNNNNNNNNNNNNNN",
+    "N                         N",
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "X                         X",
+    "X X X X X X X X X X X X X X",
+    "X                         X",
+    "X X X X X X X X X X X X X X",
+    "X                         X",
+    "X X X X X X X X X X X X X X",
+    "X                         X",
+    "X X X X X X X X X X X X X X",
+    "X                         X",
+    "X X X X X X X X X X X X X X",
+    "X                         X",
+    "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+};
